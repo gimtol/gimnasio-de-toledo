@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../gimnasio-de-toledo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web2",
+		"liveServer.settings.port": 5501
+	}
+}
